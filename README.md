@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Akshat+%F0%9F%91%8B;CS+Student+%40+BITS+Dubai;Backend+Dev+%26+Deep+Learning" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=header&fontSize=0" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=580&lines=Building+systems+that+scale.+Models+that+learn." alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Akshat+%F0%9F%91%8B;2nd+Year+CS+%40+BITS+Dubai;Backend+Engineer+%26+Deep+Learning+Dev;Building+systems+that+scale." alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🧑‍💻 About Me
 
 ```java
 public class Akshat {
 
-    String[] currentlyAt  = {"BITS Pilani, Dubai Campus — CS (Year 2)"};
+    String   university   = "BITS Pilani, Dubai Campus — CS (Year 2)";
     String[] focusAreas   = {"Backend Engineering", "Deep Learning", "System Design"};
     String[] dailyDrivers = {"Java", "Spring Boot", "Python", "PyTorch"};
     String[] building     = {"Scalable APIs", "Distributed Systems", "Neural Networks"};
@@ -32,7 +30,6 @@ public class Akshat {
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AKSHEXXXX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AKSHEXXXX&theme=dark&hide_border=false)<br/>
@@ -41,54 +38,6 @@ public class Akshat {
 ## 📈 Contribution Graph
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AKSHEXXXX&theme=react-dark&hide_border=true&area=true)](https://github.com/AKSHEXXXX)
-
----
-
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKSHEXXXX/AKSHEXXXX/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKSHEXXXX/AKSHEXXXX/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AKSHEXXXX/AKSHEXXXX/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ <b>One-time setup — click to copy the GitHub Actions workflow</b></summary>
-<br/>
-
-Create this file in your repo: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: AKSHEXXXX
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake → Run workflow** once manually. Done! 🎉
-
-</details>
-
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AKSHEXXXX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
