@@ -1,11 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-![Saved Pin](https://github.com/user-attachments/assets/00ec08dd-eb45-457d-8aff-5afbfcdc9da6)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Akshat+%F0%9F%91%8B;CS+Student+%40+BITS+Dubai;Backend+Dev+%26+Deep+Learning" alt="Typing SVG" />
 
+<br/>
 
-# 💫 About Me:
-Hi, I’m Akshat.<br>I’m a 2nd year Computer Science student at BITS Dubai.<br><br>I focus on backend development and deep learning.<br>I like building systems that solve real problems and scale well.<br><br>Current focus:<br>	•	Backend systems using Java, Spring Boot, and APIs<br>	•	Databases and system design<br>	•	Deep learning fundamentals and model building<br><br>I’m actively working on projects and improving my skills every day.<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=580&lines=Building+systems+that+scale.+Models+that+learn." alt="Tagline" />
 
+</div>
+
+---
+
+# 💫 About Me
+
+```java
+public class Akshat {
+
+    String[] currentlyAt  = {"BITS Pilani, Dubai Campus — CS (Year 2)"};
+    String[] focusAreas   = {"Backend Engineering", "Deep Learning", "System Design"};
+    String[] dailyDrivers = {"Java", "Spring Boot", "Python", "PyTorch"};
+    String[] building     = {"Scalable APIs", "Distributed Systems", "Neural Networks"};
+    String   openTo       = "Internships · Collaborations · Open Source";
+
+    void lifePhilosophy() {
+        System.out.println("Ship fast. Learn faster. Scale when it hurts.");
+    }
+}
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akshatttt02/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-saxena-457b4b229/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Akshats___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatextreme@gmail.com) 
@@ -31,18 +51,3 @@ Hi, I’m Akshat.<br>I’m a 2nd year Computer Science student at BITS Dubai.<br
 [![](https://visitcount.itsvg.in/api?id=AKSHEXXXX&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**AKSHEXXXX/AKSHEXXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
