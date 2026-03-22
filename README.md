@@ -17,6 +17,10 @@ Hi, I’m Akshat.<br>I’m a 2nd year Computer Science student at BITS Dubai.<br
 ![](https://nirzak-streak-stats.vercel.app/?user=AKSHEXXXX&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHEXXXX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 Contribution Graph
+
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AKSHEXXXX&theme=react-dark&hide_border=true&area=true)](https://github.com/AKSHEXXXX)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AKSHEXXXX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
