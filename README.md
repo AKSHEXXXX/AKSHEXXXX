@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Saved Pin](https://github.com/user-attachments/assets/00ec08dd-eb45-457d-8aff-5afbfcdc9da6)
+
+
 # 💫 About Me:
 Hi, I’m Akshat.<br>I’m a 2nd year Computer Science student at BITS Dubai.<br><br>I focus on backend development and deep learning.<br>I like building systems that solve real problems and scale well.<br><br>Current focus:<br>	•	Backend systems using Java, Spring Boot, and APIs<br>	•	Databases and system design<br>	•	Deep learning fundamentals and model building<br><br>I’m actively working on projects and improving my skills every day.<br>
 
