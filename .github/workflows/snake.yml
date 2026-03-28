@@ -1,0 +1,34 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate snake.svg
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVG
+        uses: Platane/snk/github-action@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+          snake_color: '#00D9FF'
+
+      - name: Push generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: dist/
+          commit_message: 'chore: generate snake animation'
