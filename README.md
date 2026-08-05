@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Akshat+%F0%9F%91%8B;2nd+Year+CS+%40+BITS+Dubai;Backend+Engineer+%26+Deep+Learning+Dev;Building+systems+that+scale." alt="Typing SVG" />
-
+  <img src="./contrib-heatmap.svg" width="794" alt="Akshat's contribution heatmap" />
 </div>
 
 ---
@@ -40,12 +38,6 @@ public class Akshat {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AKSHEXXXX&theme=dark&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHEXXXX&theme=dark&hide_border=false&layout=compact)
-
-## 📅 Contribution Graph
-
-<div align="center">
-  <img src="./contrib-heatmap.svg" width="794" alt="Akshat's contribution heatmap" />
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
