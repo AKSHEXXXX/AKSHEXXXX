@@ -404,7 +404,7 @@
 <text x="133" y="136" class="lbl">More</text>
 <text x="155" y="150" class="sv" text-anchor="middle">153 active days</text>
 <text x="155" y="163" class="sl" text-anchor="middle">in the last year</text>
-<text x="410" y="150" class="sv" text-anchor="middle">133 day streak</text>
+<text x="410" y="150" class="sv" text-anchor="middle">0 day streak</text>
 <text x="410" y="163" class="sl" text-anchor="middle">current</text>
 <text x="665" y="150" class="sv" text-anchor="middle">133 day streak</text>
 <text x="665" y="163" class="sl" text-anchor="middle">longest</text>
