@@ -180,7 +180,7 @@
 <rect class="box" x="322" y="106" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1836ms"/>
 <rect class="box" x="336" y="22" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1848ms"/>
 <rect class="box" x="336" y="36" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1860ms"/>
-<rect class="box" x="336" y="50" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:1872ms"/>
+<rect class="box" x="336" y="50" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:1872ms"/>
 <rect class="box" x="336" y="64" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:1884ms"/>
 <rect class="box" x="336" y="78" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:1896ms"/>
 <rect class="box" x="336" y="92" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:1908ms"/>
@@ -402,7 +402,7 @@
 <rect x="103" y="126" width="11" height="11" rx="2" fill="#26a641"/>
 <rect x="118" y="126" width="11" height="11" rx="2" fill="#39d353"/>
 <text x="133" y="136" class="lbl">More</text>
-<text x="155" y="150" class="sv" text-anchor="middle">153 active days</text>
+<text x="155" y="150" class="sv" text-anchor="middle">152 active days</text>
 <text x="155" y="163" class="sl" text-anchor="middle">in the last year</text>
 <text x="410" y="150" class="sv" text-anchor="middle">0 day streak</text>
 <text x="410" y="163" class="sl" text-anchor="middle">current</text>
